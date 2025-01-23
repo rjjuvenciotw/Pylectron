@@ -1,12 +1,14 @@
 # Pylectron
-é uma biblioteca poderosa e intuitiva desenvolvida em Python que permite criar aplicações desktop multiplataforma com interfaces modernas baseadas em HTML, CSS e JavaScript. Inspirada no conceito do Electron.js, a biblioteca combina a simplicidade do Python com a flexibilidade das tecnologias web, fornecendo uma solução robusta para desenvolvedores que desejam criar aplicativos desktop ricos em funcionalidades e com design sofisticado.
+is a powerful and intuitive library developed in Python that allows you to create cross-platform desktop applications with modern interfaces based on HTML, CSS and JavaScript. Inspired by the Electron.js concept, the library combines the simplicity of Python with the flexibility of web technologies, providing a robust solution for developers who want to create feature-rich desktop applications with sophisticated design.
 
 ![Screenshot_1asds](https://github.com/user-attachments/assets/be49e668-2e42-40e4-9bb1-2f7bd05d0639)
 
-Com Pylectron, você pode:
+With Pylectron, you can:
 
-Renderizar interfaces dinâmicas utilizando um navegador embutido.
-Conectar facilmente a lógica do backend em Python com o frontend via HTTP ou WebSockets.
-Criar APIs personalizadas para lógica de negócios usando Flask ou outra estrutura backend.
-Executar seus aplicativos em Windows, macOS e Linux com suporte a empacotamento como executáveis.
-Seja para criar ferramentas internas, aplicativos comerciais ou projetos pessoais, PyTron é a solução ideal para transformar ideias em realidade com o poder do Python e a estética do web design.
+Render dynamic interfaces using an embedded browser.
+Easily connect backend logic in Python with the frontend via HTTP or WebSockets.
+Create custom APIs for business logic using Flask or another backend framework.
+Run your applications on Windows, macOS and Linux with support for packaging as executables.
+Whether you're creating internal tools, commercial applications or personal projects, PyTron is the ideal solution for turning ideas into reality with the power of Python and the aesthetics of web design.
+
+Translated with DeepL.com (free version)
