@@ -1,6 +1,8 @@
 # Pylectron
 é uma biblioteca poderosa e intuitiva desenvolvida em Python que permite criar aplicações desktop multiplataforma com interfaces modernas baseadas em HTML, CSS e JavaScript. Inspirada no conceito do Electron.js, a biblioteca combina a simplicidade do Python com a flexibilidade das tecnologias web, fornecendo uma solução robusta para desenvolvedores que desejam criar aplicativos desktop ricos em funcionalidades e com design sofisticado.
 
+![Screenshot_1asds](https://github.com/user-attachments/assets/be49e668-2e42-40e4-9bb1-2f7bd05d0639)
+
 Com Pylectron, você pode:
 
 Renderizar interfaces dinâmicas utilizando um navegador embutido.
